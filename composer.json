@@ -1,5 +1,5 @@
 {
-    "name": "Welldanger/estoquecaketeste",
+    "name": "welldanger/estoquecaketeste",
     "description": "Estoque plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
